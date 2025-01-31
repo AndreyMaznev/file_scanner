@@ -14,3 +14,10 @@ Success button:
 If one of the paths was not selected:
  <br />
 ![03](https://github.com/user-attachments/assets/985491e7-4ac9-4f65-b143-25eaac8ace5d)
+
+<br />
+Instruction:
+1. Clone repository to your local machine;
+2. Build artifact;
+3. Launch artifact;
+4. Enjoy :)
