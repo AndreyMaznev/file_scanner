@@ -5,15 +5,15 @@ A typical use is to crawl a collection of media files to identify duplicates or 
  <br />
 The main interface:
  <br />
-![01](https://github.com/user-attachments/assets/73ac4e31-c791-4d86-bd2e-d325ddc66ee7)
+![01](https://github.com/user-attachments/assets/b7881d01-09fb-4893-bf76-e89163a19280)
 
 Success button:
  <br />
-![02](https://github.com/user-attachments/assets/3ab0784c-5a8d-401b-acdc-dc8725bfe7ee)
+![02](https://github.com/user-attachments/assets/63c31255-78e0-49bc-a40c-85e67e61ea5e)
 
 If one of the paths was not selected:
  <br />
-![03](https://github.com/user-attachments/assets/985491e7-4ac9-4f65-b143-25eaac8ace5d)
+![03](https://github.com/user-attachments/assets/4fdda373-14ed-487d-b727-8aac4022e7e9)
 
 <br />
 Instruction:
