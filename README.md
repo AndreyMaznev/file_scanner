@@ -2,3 +2,12 @@ A simple app to get all the file names from selected directory including nested 
 Choose input dir and output dir. Output file will be .txt with all the file names.
 
 A typical use is to crawl a collection of media files to identify duplicates or to check for an existing file before saving.
+
+The main interface:
+![01](https://github.com/user-attachments/assets/73ac4e31-c791-4d86-bd2e-d325ddc66ee7)
+
+Success button:
+![02](https://github.com/user-attachments/assets/3ab0784c-5a8d-401b-acdc-dc8725bfe7ee)
+
+If one of the paths was not selected:
+![03](https://github.com/user-attachments/assets/985491e7-4ac9-4f65-b143-25eaac8ace5d)
