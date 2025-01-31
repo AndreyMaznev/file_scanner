@@ -17,7 +17,11 @@ If one of the paths was not selected:
 
 <br />
 Instruction:
+<br />
 1. Clone repository to your local machine;
+<br />
 2. Build artifact;
+<br />
 3. Launch artifact;
+<br />
 4. Enjoy :)
